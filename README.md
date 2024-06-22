@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Dhruv 👋
 
 ## 🚀 About Me
 I'm a passionate web developer with a strong foundation in front-end technologies like HTML, CSS, JavaScript, and Tailwind CSS. Currently, I'm diving deep into full stack development with a focus on the MERN stack.
