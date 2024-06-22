@@ -27,7 +27,7 @@ I'm a passionate web developer with a strong foundation in front-end technologie
 ### To-Do-List (https://github.com/iDhruv11/To-Do-List)
 A to do list made to serve the purpose of adding, removing, filtering tasks.
 
-### Basic Calculator (https://github.com/iDhruv11/Basic-Calculator)
+### Basic Calculator (https://github.com/iDhruv11/Electronic-Calculator)
 A Basic calculator with `backspacing` and `clear` feature to perform arithmetic calculations
 
 ## 📫 How to reach me
