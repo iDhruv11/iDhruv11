@@ -30,6 +30,8 @@ A to do list made to serve the purpose of adding, removing, filtering tasks.
 ### Basic Calculator (https://github.com/iDhruv11/Electronic-Calculator)
 A Basic calculator with `backspacing` and `clear` feature to perform arithmetic calculations
 
+### Tic tac toe game (https://github.com/iDhruv11/Tic-Tac-Toe-Javscript)
+An offline multiplayer tic tac toe game 
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/dhruvs11/)
 - [Email](mailto:drvsrm11@gmai.com)
