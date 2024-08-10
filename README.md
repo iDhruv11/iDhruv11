@@ -33,7 +33,7 @@ A Basic calculator with `backspacing` and `clear` feature to perform arithmetic 
 ### Tic tac toe game (https://github.com/iDhruv11/Tic-Tac-Toe-Javscript)
 An offline multiplayer tic tac toe game 
 ## 📫 How to reach me
-- [LinkedIn](https://www.linkedin.com/in/dhruvs11/)
+- [LinkedIn](https://www.linkedin.com/in/dhruvs11/](https://www.linkedin.com/in/dhruv-sharma-474748317?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIVLJW5z3S%2FK9rYwYursa3w%3D%3D)
 - [Email](mailto:drvsrm11@gmai.com)
 
 
