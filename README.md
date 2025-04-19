@@ -19,6 +19,7 @@ I'm a passionate web developer with a strong foundation in front-end technologie
 ![VS Code](https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![NextJS](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=next.js)
 
 ## 📈 GitHub Stats
 ![Dhruv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iDhruv11&show_icons=true&hide_border=true&theme=radical)
