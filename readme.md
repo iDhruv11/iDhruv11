@@ -1,24 +1,25 @@
 <h1 align="center">Hi, I'm Dhruv 👋</h1>
 
 <h3 align="center">
-Backend-Focused Software Developer
+Full Stack Developer with a Backend Focus
 </h3>
 
 <p align="center">
-Building scalable backend systems, REST APIs, database-driven applications, and cloud-ready services using Java, Spring Boot, Node.js, TypeScript, Docker, and Linux.
+Building modern web applications end-to-end using Java, Spring Boot, Node.js, TypeScript, React, Next.js, PostgreSQL, Docker, and Linux.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- Backend-focused developer with hands-on experience building production-style applications
-- Strong foundation in Java, Spring Boot, Node.js, and TypeScript
-- Experience designing REST APIs and database-backed systems
-- Comfortable working with PostgreSQL, MySQL, and MongoDB
-- Experience containerizing and deploying applications using Docker
+- Full Stack Developer with hands-on experience building production-style applications
+- Strong backend foundation in Java, Spring Boot, Node.js, TypeScript, SQL, and API design
+- Experience building modern frontend applications with React and Next.js
+- Comfortable designing and consuming REST APIs across frontend and backend services
+- Experience working with PostgreSQL, MySQL, and MongoDB
+- Familiar with Docker, CI/CD, Linux, and application deployment
 - Interested in distributed systems, system design, backend architecture, and cloud infrastructure
-- Linux enthusiast who enjoys understanding how systems work under the hood
+
 
 ---
 
